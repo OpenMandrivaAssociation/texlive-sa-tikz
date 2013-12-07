@@ -6,7 +6,7 @@
 # catalog-version 0.6
 Name:		texlive-sa-tikz
 Version:	0.6
-Release:	4
+Release:	5
 Summary:	TikZ library to draw switching architectures
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/sa-tikz
