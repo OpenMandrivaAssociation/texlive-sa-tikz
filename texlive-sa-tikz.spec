@@ -1,12 +1,12 @@
-# revision 31787
+# revision 32815
 # category Package
 # catalog-ctan /graphics/pgf/contrib/sa-tikz
-# catalog-date 2013-09-29 00:08:31 +0200
+# catalog-date 2014-01-29 19:47:58 +0100
 # catalog-license lppl1.3
-# catalog-version 0.6
+# catalog-version 0.7a
 Name:		texlive-sa-tikz
-Version:	0.6
-Release:	5
+Version:	0.7a
+Release:	1
 Summary:	TikZ library to draw switching architectures
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/sa-tikz
