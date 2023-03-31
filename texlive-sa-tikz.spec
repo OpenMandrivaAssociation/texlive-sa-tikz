@@ -1,6 +1,6 @@
 Name:		texlive-sa-tikz
 Version:	32815
-Release:	1
+Release:	2
 Summary:	TikZ library to draw switching architectures
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/sa-tikz
