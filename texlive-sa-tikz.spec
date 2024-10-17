@@ -3,7 +3,7 @@ Version:	32815
 Release:	2
 Summary:	TikZ library to draw switching architectures
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/sa-tikz
+URL:		https://www.ctan.org/tex-archive/graphics/pgf/contrib/sa-tikz
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sa-tikz.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sa-tikz.doc.r%{version}.tar.xz
